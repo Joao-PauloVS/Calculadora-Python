@@ -1,0 +1,6 @@
+1 - Imprimir na tela o nome da calculadora
+2 - Perguntar qual a operação desejada e receber uma opção
+3.1 - Entrar no laço da operação selecionada
+3.2 - Pedir o primeiro e o segundo número
+4 - Imprimir o resultado
+5 - Imprimir mensagem de erro caso a opção selecionada ser inválida
